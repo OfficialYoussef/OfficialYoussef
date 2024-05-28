@@ -13,7 +13,7 @@
 - 💬 Ask me about **Front-end,cloud**
 
 - ⚡ Fun fact **I am very funny**
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=officialyoussef&show_icons=true&locale=en" alt="officialyoussef" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=officialyoussef&show_icons=true&locale=en" alt="officialyoussef" /></p>
 &nbsp;
 &nbsp;
 
