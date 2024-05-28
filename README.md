@@ -16,7 +16,6 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=officialyoussef&show_icons=true&locale=en" alt="officialyoussef" /></p>
 &nbsp;
 &nbsp;
-<p><img align="left" width="300" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=officialyoussef&" alt="officialyoussef" /></p>
 
 
 <h3 align="center">&nbsp;Languages and Tools:</h3>
