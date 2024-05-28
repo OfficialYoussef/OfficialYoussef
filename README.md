@@ -9,7 +9,7 @@
 
 <br clear="both">
 
-<p align="left">.🔭 I’m currently working on Front end<br><br>    .🤝 I’m looking for help with Front-end ,UI/UX<br><br>    .💬 Ask me about Front-end,cloud<br><br>    .⚡ Fun fact I am very funny</p>
+<p align="left">- 🔭 I’m currently working on Front end<br><br>    - 🤝 I’m looking for help with Front-end ,UI/UX<br><br>    - 💬 Ask me about Front-end,cloud<br><br>    - ⚡ Fun fact I am very funny</p>
 
 ###
 
@@ -103,6 +103,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/OfficialYoussef/OfficialYoussef/output/snake.svg" alt="Snake animation" />
+
+<div align="center">
+  <img height="256" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif"  />
+</div>
 
 ###
