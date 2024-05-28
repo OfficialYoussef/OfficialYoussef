@@ -1,5 +1,5 @@
 ![Logo](https://media.licdn.com/dms/image/D4E16AQFkGcQzJhRJLg/profile-displaybackgroundimage-shrink_350_1400/0/1714756652850?e=1721260800&v=beta&t=VEQAjvNV3NuqiYc9EpusJPD-uFkS0f5V05f2qgzK1ug)
-<h1 align="center">Hey 👋 What's up?</h1>
+<h1 align="center">Hey,I'm youssef ayoujil</h1>
 
 ###
 
@@ -9,11 +9,7 @@
 
 <br clear="both">
 
-<img align="right" height="226" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"  />
-
-###
-
-<p align="left">🔭 I’m currently working on Front end<br><br>    🤝 I’m looking for help with Front-end ,UI/UX<br><br>    💬 Ask me about Front-end,cloud<br><br>    ⚡ Fun fact I am very funny</p>
+<p align="left">.🔭 I’m currently working on Front end<br><br>    .🤝 I’m looking for help with Front-end ,UI/UX<br><br>    .💬 Ask me about Front-end,cloud<br><br>    .⚡ Fun fact I am very funny</p>
 
 ###
 
@@ -86,12 +82,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/OfficialYoussef/OfficialYoussef/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3 align="center">Connect with me:</h3>
 
 ###
@@ -110,5 +100,9 @@
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="hackerrank logo"  />
   </a>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/OfficialYoussef/OfficialYoussef/output/snake.svg" alt="Snake animation" />
 
 ###
