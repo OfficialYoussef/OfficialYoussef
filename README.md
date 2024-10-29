@@ -3,7 +3,7 @@
 
 ###
 
-<h3 align="center">student of front-end developer</h3>
+<h3 align="center">student of Computer science</h3>
 
 ###
 
